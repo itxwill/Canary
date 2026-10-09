@@ -29,3 +29,8 @@ James Zheng | Programming | Electronics <br>
 "why is the midpoint of this scuffed bro. Shut up bro [laugh]. YO WHY IS NOT WORKING. SHUT YOUR FREAKING MOUTH. BRRRRRR" - Jordan Li (after i copied everything he said)
 
 "i love hackathons" - William Huang (The coolest of the bunch)
+
+
+# Devpost
+Honorable Mention
+https://devpost.com/software/canary-j4vxtb
